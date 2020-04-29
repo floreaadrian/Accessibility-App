@@ -1,16 +1,13 @@
 # accsesible_app
 
-A new Flutter project.
+A very simple flutter app that is made so it can be easily accessible.
 
-## Getting Started
+# How to run
 
-This project is a starting point for a Flutter application.
+First you need to have an emulator running or a phone connected to the pc with the developer option activated on the phone. 
+Open the terminal inside this app directory, then:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+$ flutter pub get
+$ flutter run
+```
